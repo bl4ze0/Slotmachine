@@ -13,4 +13,4 @@ Simply have python installed, and no modules are required (for now) because the 
 * Run it using "python main.py"
 
 ### Acknowledgements
-* (Tech With Tim)[https://www.youtube.com/@TechWithTim]
+* [Tech With Tim](https://www.youtube.com/@TechWithTim)
